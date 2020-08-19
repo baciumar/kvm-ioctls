@@ -1,3 +1,17 @@
+# [0.6.0-1]
+
+## Added
+
+- [upstream] Support for retrieving Host_IPA_Limit for aarch64.
+- [upstream] Support for parametrizable `datamatch` field
+  when unregistering IO event through KVM_IOEVENTFD.
+- [upstream] Support for flexible configuration of aarch64
+  guest IPA size.
+- [upstream] Support for `KVM_GET_DEVICE_ATTR` ioctl.
+- [upstream] Support for `KVM_CAP_MSI_DEVID` ioctl.
+- [upstream] Support for `KVM_CHECK_EXTENSION` ioctl.
+- [upstream] Support for `KVM_GET_REG_LIST` ioctl.
+
 # [0.5.0-2]
 
 ## Changed
