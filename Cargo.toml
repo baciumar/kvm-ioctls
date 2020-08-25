@@ -10,7 +10,7 @@ license = "Apache-2.0 OR MIT"
 
 [dependencies]
 libc = ">=0.2.39"
-kvm-bindings = { git = "https://github.com/firecracker-microvm/kvm-bindings", tag = "v0.3.0-1", features = ["fam-wrappers"] }
+kvm-bindings = { git = "https://github.com/firecracker-microvm/kvm-bindings", tag = "v0.3.0-2", features = ["fam-wrappers"] }
 vmm-sys-util = ">=0.2.1"
 
 [dev-dependencies]
