@@ -1,3 +1,9 @@
+# [0.6.0-2]
+
+## Changed
+
+- Upgrade to kvm-bindings v0.3.0-2 which enables versionize on arm.
+
 # [0.6.0-1]
 
 ## Added
